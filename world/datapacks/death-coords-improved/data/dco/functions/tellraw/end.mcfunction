@@ -1,3 +1,0 @@
-#Made By Link__HM
-## You died at X= Y= Z= in the End
-tellraw @s [{"text":"Ты умер на координатах: X","color":"white"},{"score":{"name":"@s","objective":"dco.x"},"color":"light_purple"},{"text":" Y","color":"white"},{"score":{"name":"@s","objective":"dco.y"},"color":"light_purple"},{"text":" Z","color":"white"},{"score":{"name":"@s","objective":"dco.z"},"color":"light_purple"},{"text":" в Энде","color":"white"}]
